@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wes:home|Door43 (wes)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wes|d43-wes repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wes/archive/master.zip|d43-wes.zip]]
+
+**Recent Changes**
+{{changes>ns = wes}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wes|Ethnologue data]]
+
